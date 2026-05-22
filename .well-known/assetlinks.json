@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sudanfree.sudan_free",
+    "sha256_cert_fingerprints": [
+      "75:A0:3E:F4:15:1D:5A:27:3D:16:15:5A:A0:32:EC:55:9F:89:A2:6C:A8:B0:F6:EE:A1:8F:96:C5:D8:EF:75:9C"
+    ]
+  }
+}]
